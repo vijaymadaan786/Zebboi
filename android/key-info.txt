@@ -1,0 +1,17 @@
+PS C:\Users\Extension\Documents\Github\flutter-source-codes> keytool -genkey -v -keystore C:\Users\Extension\nutella.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias nutella
+Enter keystore password: extension
+Re-enter new password: extension
+What is your first and last name?
+  [Unknown]:  Extension Technologies
+What is the name of your organizational unit?
+  [Unknown]:  
+What is the name of your organization?
+  [Unknown]:  Extension Technologies
+What is the name of your City or Locality?
+  [Unknown]:  Faridabad
+What is the name of your State or Province?
+  [Unknown]:  Haryana
+What is the two-letter country code for this unit?
+  [Unknown]:  91
+Is CN=envytheme, OU=envytheme, O=envytheme, L=sylhet, ST=sylhet, C=bd correct?
+  [no]:  y
